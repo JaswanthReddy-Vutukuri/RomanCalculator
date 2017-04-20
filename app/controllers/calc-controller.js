@@ -12,7 +12,7 @@ module.exports = {
     findResult:function(req, res) { //Deals with basic validations,calculations and generating results
 
 		/****Sample data****/
-		// route /api/v1/calculate
+		// route /api/calculate
 		// raw:JSON(application/json)
 		//{"left_operand":"XI","arthimetic_operator":"+","right_operand":"IV"}
 
